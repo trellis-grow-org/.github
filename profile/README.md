@@ -2,7 +2,7 @@
 
 Websites and AI automation from Fukuoka, Japan.
 
-福岡で、ホームページの制作と、AI による業務の自動化をしている会社です。
+福岡で、ホームページの制作と、AI による業務の自動化に取り組んでいます。
 
 - Website: [trellis-grow.com](https://trellis-grow.com/?utm_source=github.com&utm_medium=referral&utm_campaign=trellis-grow-org&utm_content=org-readme)
 - Tech notes (in Japanese) / 技術ノート: [trellis-grow.com/tech](https://trellis-grow.com/tech/?utm_source=github.com&utm_medium=referral&utm_campaign=trellis-grow-org&utm_content=org-readme-technotes)
