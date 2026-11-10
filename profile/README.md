@@ -1,6 +1,7 @@
 # Trellis
 
 Websites and AI automation from Fukuoka, Japan.
+
 福岡で、ホームページの制作と、AI による業務の自動化をしている会社です。
 
 - Website: [trellis-grow.com](https://trellis-grow.com/?utm_source=github.com&utm_medium=referral&utm_campaign=trellis-grow-org&utm_content=org-readme)
@@ -10,5 +11,5 @@ Websites and AI automation from Fukuoka, Japan.
 
 ## Projects
 
-- [Hakoniwa](https://github.com/trellis-grow-org/herdr-hakoniwa) — a pixel-art office layout for [Herdr App](https://herdr.dev), where your coding agents work as staff. It is in the Herdr layout gallery.
+- [Hakoniwa](https://github.com/trellis-grow-org/herdr-hakoniwa) — a pixel-art office layout for [Herdr App](https://herdr.dev), where your coding agents work as staff. It is in the Herdr layout gallery.<br>
   コーディングエージェントが社員として働く、Herdr App のドット絵のオフィスのレイアウトです。
